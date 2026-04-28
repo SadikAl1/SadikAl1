@@ -1,12 +1,43 @@
-- 👋 Hi, I’m Sadik Al1.
-- 👀 I’m interested in Game and aap development.
-- 🌱 I’m currently learning Android development with Kotlin using Jetpack Compose  & also made some games in Godot and Unity.
-- 💞️ I’m looking to collaborate on any game idea or mostly open world sumulators 
-- 📫 How to reach me "sadik_a1i" -> my insta.
-- 😄 Pronouns: He,him
-- ⚡ Fun fact: I have worked on Unity & GoDot Gaming engin.
+# 👋 Hi, I'm Sadik Ali
 
-<!---
-SadikAl1/SadikAl1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Android Developer | Kotlin | Jetpack Compose | Firebase  
+🎮 Game Developer | Unity & Godot  
+
+---
+
+## 👨‍💻 About Me
+- Passionate about building **Android apps and games**
+- Currently learning **Android development with Jetpack Compose**
+- I enjoy solving problems and creating real-world applications
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Kotlin, C#, Java (Basic), C 
+- **Android:** Jetpack Compose, MVVM, Firebase, REST APIs
+- **Game Dev:** Unity, Godot
+- **Tools:** Android Studio, Git, GitHub
+
+---
+
+## 🚀 Projects
+- 🎵 Music Streaming App (Jetpack Compose)
+- 💬 Chat App with Firebase
+- 📝 Notes App with RoomDB
+- 🎮 Unity Games (2D & Physics-based)
+
+---
+
+## 🤝 Looking to Collaborate
+- Android app projects  
+- Game development ideas  
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/SadikAl1  
+- LinkedIn: https://www.linkedin.com/in/sadik-ali-569617319/
+
+---
+
+⚡ Fun Fact: I built my own Rock-Paper-Scissors game in Kotlin from scratch!
